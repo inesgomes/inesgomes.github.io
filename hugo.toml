@@ -147,6 +147,12 @@ icon = "fa-brands fa-linkedin fa-2x"
 weight = 4
 url = "https://www.linkedin.com/in/inesgomes778/"
 
+[[params.social]]
+name = "Orcid"
+icon = "fa-brands fa-orcid fa-2x"   
+weight = 5
+url = "https://orcid.org/0009-0006-3104-4622"
+
 [languages.en]
 languageName = ":uk:"
 
