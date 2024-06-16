@@ -15,14 +15,15 @@ enableEmoji = true
 noClasses = false
 
 [params]
+showFooter = false
 author = "Inês Gomes"
 description = "This is my personal website"
 keywords = "personal"
-info = ["PhD Student", "Data Scientist"]
+info = ["PhD Student @ Universidade do Porto, Portugal", "Teaching Assistant @ Universidade do Porto, Portugal", "Mentor", "Data Scientist"]
 avatarURL = "images/avatar.jpg"
-#gravatar = "john.doe@example.com"
+#gravatar = "ines.gomes@fe.up.pt"
 dateFormat = "January 2, 2006"
-#since = 2019
+# since = 2019
 # Git Commit in Footer, uncomment the line below to enable it
 commit = "https://github.com/luizdepra/hugo-coder/tree/"
 # Right To Left, shift content direction for languages such as Arabic
@@ -138,37 +139,41 @@ url = "https://github.com/inesgomes/"
 [[params.social]]
 name = "Twitter"
 icon = "fa-brands fa-x-twitter fa-2x"
-weight = 3
+weight = 2
 url = "https://twitter.com/inessabem/"
 
 [[params.social]]
 name = "LinkedIn"
 icon = "fa-brands fa-linkedin fa-2x"
-weight = 4
+weight = 3
 url = "https://www.linkedin.com/in/inesgomes778/"
 
 [[params.social]]
 name = "Orcid"
 icon = "fa-brands fa-orcid fa-2x"   
-weight = 5
+weight = 4
 url = "https://orcid.org/0009-0006-3104-4622"
+
+[[params.social]]
+name = "Email"
+icon = "fa-solid fa-envelope fa-2x"   
+weight = 5
+url = "mailto:ines.gomes@fe.up.pt"
 
 [languages.en]
 languageName = ":uk:"
 
 [[languages.en.menu.main]]
-name = "Papers"
+name = "About Me"
 weight = 1
-url = "papers/"
-
-[[languages.en.menu.main]]
-name = "About"
-weight = 2
 url = "about/"
 
+#[[languages.en.menu.main]]
+#name = "Responsible AI @ U. Porto"
+#weight = 2
+#url = "group/"
+
 [[languages.en.menu.main]]
-name = "Contact me"
+name = "Publications"
 weight = 3
-url = "contact/"
-
-
+url = "papers/"
