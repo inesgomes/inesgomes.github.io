@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AISym4Med on Inês Gomes</title>
+    <link>http://localhost:1313/categories/aisym4med/</link>
+    <description>Recent content in AISym4Med on Inês Gomes</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 20 Nov 2023 23:18:01 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/aisym4med/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>General Assembly Meeting of AISym4Med - Zaragoza 🇪🇸</title>
+      <link>http://localhost:1313/news/gam-zaragoza/</link>
+      <pubDate>Mon, 20 Nov 2023 23:18:01 +0100</pubDate>
+      <guid>http://localhost:1313/news/gam-zaragoza/</guid>
+      <description>&lt;p&gt;Represented the Porto University group in the AISym4Med bi-annual meeting.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>General Assembly Meeting of AISym4Med - Lisbon 🇵🇹</title>
+      <link>http://localhost:1313/news/gam-lx/</link>
+      <pubDate>Tue, 20 Jun 2023 23:18:01 +0100</pubDate>
+      <guid>http://localhost:1313/news/gam-lx/</guid>
+      <description>&lt;p&gt;Represented the Porto University group in the AISym4Med bi-annual meeting.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -5,3 +5,5 @@ draft = true
 +++
 
 TODO
+
+Requires adding my previous work experiences. And a link to my CV in a pdf format.
