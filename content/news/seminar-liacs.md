@@ -5,4 +5,4 @@ draft = false
 categories = ["presentation"]
 +++
 
-{{< embed-pdf url="../liacs-seminar.pdf" hidePaginator="true" >}}
+{{< embed-pdf url="/others/liacs-seminar.pdf" hidePaginator="true" >}}

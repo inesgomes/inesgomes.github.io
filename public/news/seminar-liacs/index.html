@@ -259,36 +259,36 @@ View the PDF file here.
   @-webkit-keyframes spin {
     to { -webkit-transform: rotate(360deg); }
   }
-  </style><div class="embed-pdf-container" id="embed-pdf-container-718d69de">
-    <div class="pdf-loadingWrapper" id="pdf-loadingWrapper-718d69de">
-        <div class="pdf-loading" id="pdf-loading-718d69de"></div>
+  </style><div class="embed-pdf-container" id="embed-pdf-container-feb42f05">
+    <div class="pdf-loadingWrapper" id="pdf-loadingWrapper-feb42f05">
+        <div class="pdf-loading" id="pdf-loading-feb42f05"></div>
     </div>
     <div id="overlayText">
-      <a href="../liacs-seminar.pdf" aria-label="Download" download>
+      <a href="/others/liacs-seminar.pdf" aria-label="Download" download>
         <svg aria-hidden="true" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 18">
             <path d="M9 13c.3 0 .5-.1.7-.3L15.4 7 14 5.6l-4 4V1H8v8.6l-4-4L2.6 7l5.7 5.7c.2.2.4.3.7.3zm-7 2h14v2H2z" />
         </svg>
       </a>
     </div>
-    <canvas class="pdf-canvas" id="pdf-canvas-718d69de"></canvas>
+    <canvas class="pdf-canvas" id="pdf-canvas-feb42f05"></canvas>
 </div>
 
-<div class="pdf-paginator" id="pdf-paginator-718d69de">
-    <button id="pdf-prev-718d69de">Previous</button>
-    <button id="pdf-next-718d69de">Next</button> &nbsp; &nbsp;
+<div class="pdf-paginator" id="pdf-paginator-feb42f05">
+    <button id="pdf-prev-feb42f05">Previous</button>
+    <button id="pdf-next-feb42f05">Next</button> &nbsp; &nbsp;
     <span>
-      <span class="pdf-pagenum" id="pdf-pagenum-718d69de"></span> / <span class="pdf-pagecount" id="pdf-pagecount-718d69de"></span>
+      <span class="pdf-pagenum" id="pdf-pagenum-feb42f05"></span> / <span class="pdf-pagecount" id="pdf-pagecount-feb42f05"></span>
     </span>
-    <a class="pdf-source" id="pdf-source-718d69de" href="../liacs-seminar.pdf">[pdf]</a>
+    <a class="pdf-source" id="pdf-source-feb42f05" href="/others/liacs-seminar.pdf">[pdf]</a>
 </div>
 
 <noscript>
-View the PDF file <a class="pdf-source" id="pdf-source-noscript-718d69de" href="../liacs-seminar.pdf">here</a>.
+View the PDF file <a class="pdf-source" id="pdf-source-noscript-feb42f05" href="/others/liacs-seminar.pdf">here</a>.
 </noscript>
 
 <script type="text/javascript">
     (function(){
-    var url = '..\/liacs-seminar.pdf';
+    var url = '\/others\/liacs-seminar.pdf';
 
     var hidePaginator = "true" === "true";
     var hideLoader = "" === "true";
@@ -307,10 +307,10 @@ View the PDF file <a class="pdf-source" id="pdf-source-noscript-718d69de" href="
         pageRendering = false,
         pageNumPending = null,
         scale = 3,
-        canvas = document.getElementById('pdf-canvas-718d69de'),
+        canvas = document.getElementById('pdf-canvas-feb42f05'),
         ctx = canvas.getContext('2d'),
-        paginator = document.getElementById("pdf-paginator-718d69de"),
-        loadingWrapper = document.getElementById('pdf-loadingWrapper-718d69de');
+        paginator = document.getElementById("pdf-paginator-feb42f05"),
+        loadingWrapper = document.getElementById('pdf-loadingWrapper-feb42f05');
 
 
     
@@ -348,7 +348,7 @@ View the PDF file <a class="pdf-source" id="pdf-source-noscript-718d69de" href="
       });
 
       
-      document.getElementById('pdf-pagenum-718d69de').textContent = num;
+      document.getElementById('pdf-pagenum-feb42f05').textContent = num;
     }
 
     
@@ -392,7 +392,7 @@ View the PDF file <a class="pdf-source" id="pdf-source-noscript-718d69de" href="
       pageNum--;
       queueRenderPage(pageNum);
     }
-    document.getElementById('pdf-prev-718d69de').addEventListener('click', onPrevPage);
+    document.getElementById('pdf-prev-feb42f05').addEventListener('click', onPrevPage);
 
     
 
@@ -403,14 +403,14 @@ View the PDF file <a class="pdf-source" id="pdf-source-noscript-718d69de" href="
       pageNum++;
       queueRenderPage(pageNum);
     }
-    document.getElementById('pdf-next-718d69de').addEventListener('click', onNextPage);
+    document.getElementById('pdf-next-feb42f05').addEventListener('click', onNextPage);
 
     
 
     pdfjsLib.getDocument(url).promise.then(function(pdfDoc_) {
       pdfDoc = pdfDoc_;
       var numPages = pdfDoc.numPages;
-      document.getElementById('pdf-pagecount-718d69de').textContent = numPages;
+      document.getElementById('pdf-pagecount-feb42f05').textContent = numPages;
 
       
       if(pageNum > numPages) {
