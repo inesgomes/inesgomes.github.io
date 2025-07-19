@@ -6,12 +6,19 @@
     <description>Recent content in Paper on Inês Gomes</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 20 Jun 2024 23:18:01 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 18 Jul 2025 23:18:01 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/paper/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>📄 Accepted paper - Hubris Benchmarking with AmbiGANs: Assessing Model Overconfidence with Synthetic Ambiguous Data @ Discovery Science 2025</title>
+      <link>http://localhost:1313/news/paper-accepted-ds/</link>
+      <pubDate>Fri, 18 Jul 2025 23:18:01 +0100</pubDate>
+      <guid>http://localhost:1313/news/paper-accepted-ds/</guid>
+      <description></description>
+    </item>
     <item>
       <title>📄 Accepted paper - GASTeNv2: Generative Adversarial Stress Testing Networks with Gaussian Loss @ EPIA 2024</title>
       <link>http://localhost:1313/news/paper-accepted-epia/</link>
-      <pubDate>Thu, 20 Jun 2024 23:18:01 +0100</pubDate>
+      <pubDate>Tue, 02 Jul 2024 23:18:01 +0100</pubDate>
       <guid>http://localhost:1313/news/paper-accepted-epia/</guid>
       <description></description>
     </item>

@@ -1,7 +1,7 @@
 +++
 title = 'Supervisor of 3 master students - 2023/24'
 date = 2024-01-01T23:18:01+01:00
-draft = false
+draft = true
 categories = ["teaching"]
 +++
 
