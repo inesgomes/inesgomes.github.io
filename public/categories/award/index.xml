@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Award on Inês Gomes</title>
+    <link>http://localhost:1313/categories/award/</link>
+    <description>Recent content in Award on Inês Gomes</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 08 Sep 2025 23:18:01 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/award/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>🏆 Honorable Recognition - Chair @ AutoML Conference, New York City 🇺🇸</title>
+      <link>http://localhost:1313/news/automl25-award/</link>
+      <pubDate>Mon, 08 Sep 2025 23:18:01 +0100</pubDate>
+      <guid>http://localhost:1313/news/automl25-award/</guid>
+      <description>&lt;p&gt;Honorable Recognition for efforts in organizing the AutoML Conference 2025 as Publicity Chair.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

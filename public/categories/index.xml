@@ -6,8 +6,22 @@
     <description>Recent content in Categories on Inês Gomes</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 18 Jul 2025 23:18:01 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 10 Sep 2025 23:18:01 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Presentation</title>
+      <link>http://localhost:1313/categories/presentation/</link>
+      <pubDate>Wed, 10 Sep 2025 23:18:01 +0100</pubDate>
+      <guid>http://localhost:1313/categories/presentation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Award</title>
+      <link>http://localhost:1313/categories/award/</link>
+      <pubDate>Mon, 08 Sep 2025 23:18:01 +0100</pubDate>
+      <guid>http://localhost:1313/categories/award/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Paper</title>
       <link>http://localhost:1313/categories/paper/</link>
@@ -20,13 +34,6 @@
       <link>http://localhost:1313/categories/teaching/</link>
       <pubDate>Wed, 16 Jul 2025 23:18:01 +0100</pubDate>
       <guid>http://localhost:1313/categories/teaching/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Presentation</title>
-      <link>http://localhost:1313/categories/presentation/</link>
-      <pubDate>Fri, 07 Feb 2025 23:18:01 +0100</pubDate>
-      <guid>http://localhost:1313/categories/presentation/</guid>
       <description></description>
     </item>
     <item>
