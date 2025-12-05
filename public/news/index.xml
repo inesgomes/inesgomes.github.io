@@ -6,8 +6,22 @@
     <description>Recent content in News on Inês Gomes</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 24 Sep 2025 23:18:01 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 05 Dec 2025 12:18:01 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/news/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>💬 [Webinar] Using Ambiguous Synthetic Data to Evaluate Model Overconfidence in Pneumonia Detection</title>
+      <link>http://localhost:1313/news/cop-webinar/</link>
+      <pubDate>Fri, 05 Dec 2025 12:18:01 +0100</pubDate>
+      <guid>http://localhost:1313/news/cop-webinar/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>🛫 Visit to University of Pernambuco, Recife 🇧🇷 - 1 week</title>
+      <link>http://localhost:1313/news/visit-recife/</link>
+      <pubDate>Sun, 09 Nov 2025 23:18:01 +0100</pubDate>
+      <guid>http://localhost:1313/news/visit-recife/</guid>
+      <description></description>
+    </item>
     <item>
       <title>🗣 Oral Presentation @ Discovery Science, Ljubljana 🇸🇮</title>
       <link>http://localhost:1313/news/ds-25/</link>
@@ -27,35 +41,35 @@
       <link>http://localhost:1313/news/automl-25/</link>
       <pubDate>Wed, 10 Sep 2025 23:18:01 +0100</pubDate>
       <guid>http://localhost:1313/news/automl-25/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://openreview.net/forum?id=77wqOgn6aV&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Stress Testing Classifiers around the Decision Boundary with Latent Diffusion&lt;/a&gt;&lt;/p&gt;</description>
+      <description>Stress Testing Classifiers around the Decision Boundary with Latent Diffusion</description>
     </item>
     <item>
       <title>🏆 Honorable Recognition - Chair @ AutoML Conference, New York City 🇺🇸</title>
       <link>http://localhost:1313/news/automl25-award/</link>
       <pubDate>Mon, 08 Sep 2025 23:18:01 +0100</pubDate>
       <guid>http://localhost:1313/news/automl25-award/</guid>
-      <description>&lt;p&gt;Honorable Recognition for efforts in organizing the AutoML Conference 2025 as Publicity Chair.&lt;/p&gt;</description>
+      <description>Honorable Recognition for efforts in organizing the AutoML Conference 2025 as Publicity Chair.</description>
     </item>
     <item>
       <title>Hired as invited assistant professor for the 2025/26 school year</title>
       <link>http://localhost:1313/news/classes-25/</link>
       <pubDate>Mon, 01 Sep 2025 23:18:01 +0100</pubDate>
       <guid>http://localhost:1313/news/classes-25/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=541175&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Análise de Dados Complexos&lt;/a&gt;&lt;/p&gt;</description>
+      <description>Análise de Dados Complexos</description>
     </item>
     <item>
       <title>📄 Accepted paper - Hubris Benchmarking with AmbiGANs: Assessing Model Overconfidence with Synthetic Ambiguous Data @ Discovery Science 2025</title>
       <link>http://localhost:1313/news/paper-accepted-ds/</link>
       <pubDate>Fri, 18 Jul 2025 23:18:01 +0100</pubDate>
       <guid>http://localhost:1313/news/paper-accepted-ds/</guid>
-      <description>&lt;p&gt;Conference: &lt;a href=&#34;https://ds2025.ijs.si/&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://ds2025.ijs.si/&lt;/a&gt;&lt;/p&gt;</description>
+      <description>Conference: https://ds2025.ijs.si/</description>
     </item>
     <item>
       <title>Tiago Marques Master Thesis Defence</title>
       <link>http://localhost:1313/news/defence-tiago/</link>
       <pubDate>Wed, 16 Jul 2025 23:18:01 +0100</pubDate>
       <guid>http://localhost:1313/news/defence-tiago/</guid>
-      <description>&lt;p&gt;Code: &lt;a href=&#34;https://github.com/TMBMarques/DSTM4TS&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/TMBMarques/DSTM4TS&lt;/a&gt;&lt;/p&gt;</description>
+      <description>Code: https://github.com/TMBMarques/DSTM4TS</description>
     </item>
     <item>
       <title>Thesis Proposal Defence - officially PhD Candidate 🎉</title>
@@ -69,21 +83,21 @@
       <link>http://localhost:1313/news/robustness-workshop/</link>
       <pubDate>Fri, 07 Feb 2025 23:18:01 +0100</pubDate>
       <guid>http://localhost:1313/news/robustness-workshop/</guid>
-      <description>&lt;p&gt;I had the opportunity to present a tutorial on my framework, &amp;ldquo;Finding Patterns in Ambiguity&amp;rdquo;, to an audience of over 50 participants. The event was hosted by the Center for Responsible AI.&lt;/p&gt;&#xA;&lt;p&gt;You can access the presentation materials &lt;a href=&#34;https://drive.google.com/drive/folders/14xhmbOqMwtzImsIdUmLf9j2s2zQlkDQv&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;!&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/robustness-workshop.png&#34; alt=&#34;banner&#34;&gt;&lt;/p&gt;</description>
+      <description>I had the opportunity to present a tutorial on my framework, &amp;ldquo;Finding Patterns in Ambiguity&amp;rdquo;, to an audience of over 50 participants. The event was hosted by the Center for Responsible AI.&#xA;You can access the presentation materials here!</description>
     </item>
     <item>
       <title>🛫 Visit to Fraunhofer HHI, Berlin 🇩🇪 - 2 days</title>
       <link>http://localhost:1313/news/visit-frauhnofer-berlin/</link>
       <pubDate>Mon, 02 Dec 2024 23:18:01 +0100</pubDate>
       <guid>http://localhost:1313/news/visit-frauhnofer-berlin/</guid>
-      <description>&lt;p&gt;Visit the &lt;a href=&#34;https://www.hhi.fraunhofer.de/en/departments/ai/research-groups/explainable-artificial-intelligence.html&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Explainable Artificial Intelligence group from Fraunhofer HHI&lt;/a&gt; group, more specifically professor &lt;a href=&#34;https://iphome.hhi.de/samek/&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wojciech Samek&lt;/a&gt; to discuss our similar approaches on unsupervised concept-based explainable AI.&lt;/p&gt;</description>
+      <description>Visit the Explainable Artificial Intelligence group from Fraunhofer HHI group, more specifically professor Wojciech Samek to discuss our similar approaches on unsupervised concept-based explainable AI.</description>
     </item>
     <item>
       <title>🛫 Visit to ADA research group, Aachen 🇩🇪 - 2 days</title>
       <link>http://localhost:1313/news/visit-aachen/</link>
       <pubDate>Thu, 28 Nov 2024 23:18:01 +0100</pubDate>
       <guid>http://localhost:1313/news/visit-aachen/</guid>
-      <description>&lt;p&gt;Travel to Aachen to visit the second branch of the ADA research group, present my work, and meet researchers working on machine learning models&amp;rsquo; robustness.&lt;/p&gt;</description>
+      <description>Travel to Aachen to visit the second branch of the ADA research group, present my work, and meet researchers working on machine learning models&amp;rsquo; robustness.</description>
     </item>
     <item>
       <title>Cátia Teixeira (master student) recognized as runner-up for best thesis on Responsible AI</title>
@@ -97,7 +111,7 @@
       <link>http://localhost:1313/news/seminar-liacs/</link>
       <pubDate>Mon, 04 Nov 2024 23:18:01 +0100</pubDate>
       <guid>http://localhost:1313/news/seminar-liacs/</guid>
-      <description>&lt;div class=&#34;embed-pdf-container&#34; id=&#34;embed-pdf-container-feb42f05&#34;&gt;&#xA;    &lt;div class=&#34;pdf-loadingWrapper&#34; id=&#34;pdf-loadingWrapper-feb42f05&#34;&gt;&#xA;        &lt;div class=&#34;pdf-loading&#34; id=&#34;pdf-loading-feb42f05&#34;&gt;&lt;/div&gt;&#xA;    &lt;/div&gt;&#xA;    &lt;div id=&#34;overlayText&#34;&gt;&#xA;      &lt;a href=&#34;http://localhost:1313/others/liacs-seminar.pdf&#34; aria-label=&#34;Download&#34; download&gt;&#xA;        &lt;svg aria-hidden=&#34;true&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 18 18&#34;&gt;&#xA;            &lt;path d=&#34;M9 13c.3 0 .5-.1.7-.3L15.4 7 14 5.6l-4 4V1H8v8.6l-4-4L2.6 7l5.7 5.7c.2.2.4.3.7.3zm-7 2h14v2H2z&#34; /&gt;&#xA;        &lt;/svg&gt;&#xA;      &lt;/a&gt;&#xA;    &lt;/div&gt;&#xA;    &lt;canvas class=&#34;pdf-canvas&#34; id=&#34;pdf-canvas-feb42f05&#34;&gt;&lt;/canvas&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;div class=&#34;pdf-paginator&#34; id=&#34;pdf-paginator-feb42f05&#34;&gt;&#xA;    &lt;button id=&#34;pdf-prev-feb42f05&#34;&gt;Previous&lt;/button&gt;&#xA;    &lt;button id=&#34;pdf-next-feb42f05&#34;&gt;Next&lt;/button&gt; &amp;nbsp; &amp;nbsp;&#xA;    &lt;span&gt;&#xA;      &lt;span class=&#34;pdf-pagenum&#34; id=&#34;pdf-pagenum-feb42f05&#34;&gt;&lt;/span&gt; / &lt;span class=&#34;pdf-pagecount&#34; id=&#34;pdf-pagecount-feb42f05&#34;&gt;&lt;/span&gt;&#xA;    &lt;/span&gt;&#xA;    &lt;a class=&#34;pdf-source&#34; id=&#34;pdf-source-feb42f05&#34; href=&#34;http://localhost:1313/others/liacs-seminar.pdf&#34;&gt;[pdf]&lt;/a&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;noscript&gt;&#xA;View the PDF file &lt;a class=&#34;pdf-source&#34; id=&#34;pdf-source-noscript-feb42f05&#34; href=&#34;http://localhost:1313/others/liacs-seminar.pdf&#34;&gt;here&lt;/a&gt;.&#xA;&lt;/noscript&gt;&#xA;&#xA;&lt;script type=&#34;text/javascript&#34;&gt;&#xA;    (function(){&#xA;    var url = &#39;\/others\/liacs-seminar.pdf&#39;;&#xA;&#xA;    var hidePaginator = &#34;true&#34; === &#34;true&#34;;&#xA;    var hideLoader = &#34;&#34; === &#34;true&#34;;&#xA;    var selectedPageNum = parseInt(&#34;&#34;) || 1;&#xA;&#xA;    &#xA;    var pdfjsLib = window[&#39;pdfjs-dist/build/pdf&#39;];&#xA;&#xA;    &#xA;    if (pdfjsLib.GlobalWorkerOptions.workerSrc == &#39;&#39;)&#xA;      pdfjsLib.GlobalWorkerOptions.workerSrc = &#34;http:\/\/localhost:1313\/&#34; + &#39;js/pdf-js/build/pdf.worker.js&#39;;&#xA;&#xA;    &#xA;    var pdfDoc = null,&#xA;        pageNum = selectedPageNum,&#xA;        pageRendering = false,&#xA;        pageNumPending = null,&#xA;        scale = 3,&#xA;        canvas = document.getElementById(&#39;pdf-canvas-feb42f05&#39;),&#xA;        ctx = canvas.getContext(&#39;2d&#39;),&#xA;        paginator = document.getElementById(&#34;pdf-paginator-feb42f05&#34;),&#xA;        loadingWrapper = document.getElementById(&#39;pdf-loadingWrapper-feb42f05&#39;);&#xA;&#xA;&#xA;    &#xA;    showPaginator();&#xA;    showLoader();&#xA;&#xA;    &#xA;&#xA;    function renderPage(num) {&#xA;      pageRendering = true;&#xA;      &#xA;      pdfDoc.getPage(num).then(function(page) {&#xA;        var viewport = page.getViewport({scale: scale});&#xA;        canvas.height = viewport.height;&#xA;        canvas.width = viewport.width;&#xA;&#xA;        &#xA;        var renderContext = {&#xA;          canvasContext: ctx,&#xA;          viewport: viewport&#xA;        };&#xA;        var renderTask = page.render(renderContext);&#xA;&#xA;        &#xA;        renderTask.promise.then(function() {&#xA;          pageRendering = false;&#xA;          showContent();&#xA;&#xA;          if (pageNumPending !== null) {&#xA;            &#xA;            renderPage(pageNumPending);&#xA;            pageNumPending = null;&#xA;          }&#xA;        });&#xA;      });&#xA;&#xA;      &#xA;      document.getElementById(&#39;pdf-pagenum-feb42f05&#39;).textContent = num;&#xA;    }&#xA;&#xA;    &#xA;&#xA;    function showContent() {&#xA;      loadingWrapper.style.display = &#39;none&#39;;&#xA;      canvas.style.display = &#39;block&#39;;&#xA;    }&#xA;&#xA;    &#xA;&#xA;    function showLoader() {&#xA;      if(hideLoader) return&#xA;      loadingWrapper.style.display = &#39;flex&#39;;&#xA;      canvas.style.display = &#39;none&#39;;&#xA;    }&#xA;&#xA;    &#xA;&#xA;    function showPaginator() {&#xA;      if(hidePaginator) return&#xA;      paginator.style.display = &#39;block&#39;;&#xA;    }&#xA;&#xA;    &#xA;&#xA;    function queueRenderPage(num) {&#xA;      if (pageRendering) {&#xA;        pageNumPending = num;&#xA;      } else {&#xA;        renderPage(num);&#xA;      }&#xA;    }&#xA;&#xA;    &#xA;&#xA;    function onPrevPage() {&#xA;      if (pageNum &lt;= 1) {&#xA;        return;&#xA;      }&#xA;      pageNum--;&#xA;      queueRenderPage(pageNum);&#xA;    }&#xA;    document.getElementById(&#39;pdf-prev-feb42f05&#39;).addEventListener(&#39;click&#39;, onPrevPage);&#xA;&#xA;    &#xA;&#xA;    function onNextPage() {&#xA;      if (pageNum &gt;= pdfDoc.numPages) {&#xA;        return;&#xA;      }&#xA;      pageNum++;&#xA;      queueRenderPage(pageNum);&#xA;    }&#xA;    document.getElementById(&#39;pdf-next-feb42f05&#39;).addEventListener(&#39;click&#39;, onNextPage);&#xA;&#xA;    &#xA;&#xA;    pdfjsLib.getDocument(url).promise.then(function(pdfDoc_) {&#xA;      pdfDoc = pdfDoc_;&#xA;      var numPages = pdfDoc.numPages;&#xA;      document.getElementById(&#39;pdf-pagecount-feb42f05&#39;).textContent = numPages;&#xA;&#xA;      &#xA;      if(pageNum &gt; numPages) {&#xA;        pageNum = numPages&#xA;      }&#xA;&#xA;      &#xA;      renderPage(pageNum);&#xA;    });&#xA;    })();&#xA;&lt;/script&gt;</description>
+      <description> Previous Next &amp;nbsp; &amp;nbsp; / [pdf] View the PDF file here. </description>
     </item>
     <item>
       <title>👩‍💻 New role - Social Media Manager of AutoML Conference 2025</title>
@@ -118,28 +132,28 @@
       <link>http://localhost:1313/news/defence-afonso/</link>
       <pubDate>Mon, 30 Sep 2024 23:18:01 +0100</pubDate>
       <guid>http://localhost:1313/news/defence-afonso/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://repositorio-aberto.up.pt/handle/10216/163328&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GASTeN(time series): Generative Adversarial Stress Test Networks for Time Series&lt;/a&gt;&lt;/p&gt;</description>
+      <description>GASTeN(time series): Generative Adversarial Stress Test Networks for Time Series</description>
     </item>
     <item>
       <title>Hired as invited assistant professor for the 2024/25 school year</title>
       <link>http://localhost:1313/news/classes-24/</link>
       <pubDate>Sun, 01 Sep 2024 23:18:01 +0100</pubDate>
       <guid>http://localhost:1313/news/classes-24/</guid>
-      <description>&lt;p&gt;Teaching two courses:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=541175&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Análise de Dados Complexos&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://sigarra.up.pt/feup/pt/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=540604&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Complementos de Aprendizagem Computacional&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ol&gt;</description>
+      <description>Teaching two courses:&#xA;Análise de Dados Complexos Complementos de Aprendizagem Computacional </description>
     </item>
     <item>
       <title>Luuk de Jong Master Thesis Defence</title>
       <link>http://localhost:1313/news/defence-luuk/</link>
       <pubDate>Fri, 02 Aug 2024 23:18:01 +0100</pubDate>
       <guid>http://localhost:1313/news/defence-luuk/</guid>
-      <description>&lt;p&gt;Code: &lt;a href=&#34;https://github.com/LuukdeJong123/gasten&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/LuukdeJong123/gasten&lt;/a&gt;&lt;/p&gt;</description>
+      <description>Code: https://github.com/LuukdeJong123/gasten</description>
     </item>
     <item>
       <title>Cátia Teixeira Master Thesis Defence - grade 20/20 🎉</title>
       <link>http://localhost:1313/news/defence-catia/</link>
       <pubDate>Mon, 22 Jul 2024 23:18:01 +0100</pubDate>
       <guid>http://localhost:1313/news/defence-catia/</guid>
-      <description>&lt;p&gt;Cátia achieved the maximum grade of 20/20 with her work: &lt;a href=&#34;https://repositorio-aberto.up.pt/bitstream/10216/161241/2/684282.pdf&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hubris benchmarking with AmbiGANs&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.linkedin.com/posts/mdse_up-feup-mdse-activity-7222592348248002560-JK1F?utm_source=share&amp;amp;utm_medium=member_desktop&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Linkedin Post&lt;/a&gt;&lt;/p&gt;</description>
+      <description>Cátia achieved the maximum grade of 20/20 with her work: Hubris benchmarking with AmbiGANs.&#xA;Linkedin Post</description>
     </item>
     <item>
       <title>📄 Accepted paper - GASTeNv2: Generative Adversarial Stress Testing Networks with Gaussian Loss @ EPIA 2024</title>
@@ -174,14 +188,14 @@
       <link>http://localhost:1313/news/gam-zaragoza/</link>
       <pubDate>Mon, 20 Nov 2023 23:18:01 +0100</pubDate>
       <guid>http://localhost:1313/news/gam-zaragoza/</guid>
-      <description>&lt;p&gt;Represented the Porto University group in the AISym4Med bi-annual meeting.&lt;/p&gt;</description>
+      <description>Represented the Porto University group in the AISym4Med bi-annual meeting.</description>
     </item>
     <item>
       <title>🗣 Poster presentation &#43; 🏆 best poster award @ Data Powwow, Porto 🇵🇹</title>
       <link>http://localhost:1313/news/datapowwow/</link>
       <pubDate>Fri, 20 Oct 2023 23:18:01 +0100</pubDate>
       <guid>http://localhost:1313/news/datapowwow/</guid>
-      <description>&lt;p&gt;Poster presentation and winner of best poster award at &lt;a href=&#34;https://www.up.pt/datapowwow/&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Data Powwow&lt;/a&gt; - the largest data science event organized by students in Portugal.&lt;/p&gt;</description>
+      <description>Poster presentation and winner of best poster award at Data Powwow - the largest data science event organized by students in Portugal.</description>
     </item>
     <item>
       <title>🗣 Poster presentation - Neuro-symbolic Metalearning and AutoML Workshop @ ECML-PKDD, Torino 🇮🇹</title>
@@ -195,21 +209,21 @@
       <link>http://localhost:1313/news/classes-23/</link>
       <pubDate>Fri, 01 Sep 2023 23:18:01 +0100</pubDate>
       <guid>http://localhost:1313/news/classes-23/</guid>
-      <description>&lt;p&gt;Teaching two courses:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=519425&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Análise de Dados Complexos&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=518813&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Complementos de Aprendizagem Computacional&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ol&gt;</description>
+      <description>Teaching two courses:&#xA;Análise de Dados Complexos Complementos de Aprendizagem Computacional </description>
     </item>
     <item>
       <title>General Assembly Meeting of AISym4Med - Lisbon 🇵🇹</title>
       <link>http://localhost:1313/news/gam-lx/</link>
       <pubDate>Tue, 20 Jun 2023 23:18:01 +0100</pubDate>
       <guid>http://localhost:1313/news/gam-lx/</guid>
-      <description>&lt;p&gt;Represented the Porto University group in the AISym4Med bi-annual meeting.&lt;/p&gt;</description>
+      <description>Represented the Porto University group in the AISym4Med bi-annual meeting.</description>
     </item>
     <item>
       <title>🎉 Started my PhD 🎉</title>
       <link>http://localhost:1313/news/start-phd/</link>
       <pubDate>Wed, 01 Feb 2023 23:18:01 +0100</pubDate>
       <guid>http://localhost:1313/news/start-phd/</guid>
-      <description>&lt;p&gt;At Faculdade de Engenharia da Universidade do Porto (FEUP), belonging to the Responsible AI group led by professor &lt;a href=&#34;https://scholar.google.pt/citations?user=NKIi7CUAAAAJ&amp;amp;hl=pt-PT&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Carlos Soares&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;I&amp;rsquo;m supervised by professores &lt;a href=&#34;https://scholar.google.pt/citations?hl=pt-PT&amp;amp;user=WLOWIngoRCoC&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Luís F. Teixeira&lt;/a&gt; and &lt;a href=&#34;https://www.universiteitleiden.nl/en/staffmembers/jan-van-rijn#tab-1&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jan van Rijn&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;My scholarship is financed by &lt;a href=&#34;https://aisym4med.eu/&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;AISym4Med&lt;/a&gt;.&lt;/p&gt;</description>
+      <description>At Faculdade de Engenharia da Universidade do Porto (FEUP), belonging to the Responsible AI group led by professor Carlos Soares.&#xA;I&amp;rsquo;m supervised by professores Luís F. Teixeira and Jan van Rijn.&#xA;My scholarship is financed by AISym4Med.</description>
     </item>
   </channel>
 </rss>

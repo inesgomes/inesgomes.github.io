@@ -6,21 +6,28 @@
     <description>Recent content in Research Visit on Inês Gomes</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 02 Dec 2024 23:18:01 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 09 Nov 2025 23:18:01 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/research-visit/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>🛫 Visit to University of Pernambuco, Recife 🇧🇷 - 1 week</title>
+      <link>http://localhost:1313/news/visit-recife/</link>
+      <pubDate>Sun, 09 Nov 2025 23:18:01 +0100</pubDate>
+      <guid>http://localhost:1313/news/visit-recife/</guid>
+      <description></description>
+    </item>
     <item>
       <title>🛫 Visit to Fraunhofer HHI, Berlin 🇩🇪 - 2 days</title>
       <link>http://localhost:1313/news/visit-frauhnofer-berlin/</link>
       <pubDate>Mon, 02 Dec 2024 23:18:01 +0100</pubDate>
       <guid>http://localhost:1313/news/visit-frauhnofer-berlin/</guid>
-      <description>&lt;p&gt;Visit the &lt;a href=&#34;https://www.hhi.fraunhofer.de/en/departments/ai/research-groups/explainable-artificial-intelligence.html&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Explainable Artificial Intelligence group from Fraunhofer HHI&lt;/a&gt; group, more specifically professor &lt;a href=&#34;https://iphome.hhi.de/samek/&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wojciech Samek&lt;/a&gt; to discuss our similar approaches on unsupervised concept-based explainable AI.&lt;/p&gt;</description>
+      <description>Visit the Explainable Artificial Intelligence group from Fraunhofer HHI group, more specifically professor Wojciech Samek to discuss our similar approaches on unsupervised concept-based explainable AI.</description>
     </item>
     <item>
       <title>🛫 Visit to ADA research group, Aachen 🇩🇪 - 2 days</title>
       <link>http://localhost:1313/news/visit-aachen/</link>
       <pubDate>Thu, 28 Nov 2024 23:18:01 +0100</pubDate>
       <guid>http://localhost:1313/news/visit-aachen/</guid>
-      <description>&lt;p&gt;Travel to Aachen to visit the second branch of the ADA research group, present my work, and meet researchers working on machine learning models&amp;rsquo; robustness.&lt;/p&gt;</description>
+      <description>Travel to Aachen to visit the second branch of the ADA research group, present my work, and meet researchers working on machine learning models&amp;rsquo; robustness.</description>
     </item>
     <item>
       <title>🛫 Visit to LIACS, Leiden 🇳🇱 - 2 months</title>
