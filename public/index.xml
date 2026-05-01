@@ -6,8 +6,22 @@
     <description>Recent content on Inês Gomes</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 05 Dec 2025 12:18:01 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 23 Apr 2026 23:18:01 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>🗣 Poster presentation - PhD Forum @ IDA, Leiden, Netherlands</title>
+      <link>http://localhost:1313/news/ida-26/</link>
+      <pubDate>Thu, 23 Apr 2026 23:18:01 +0100</pubDate>
+      <guid>http://localhost:1313/news/ida-26/</guid>
+      <description> Previous Next &amp;nbsp; &amp;nbsp; / [pdf] View the PDF file here. </description>
+    </item>
+    <item>
+      <title>🛫 Visit to LIACS, Leiden 🇳🇱 - 2 months</title>
+      <link>http://localhost:1313/news/visit-liacs-2/</link>
+      <pubDate>Wed, 01 Apr 2026 23:18:01 +0100</pubDate>
+      <guid>http://localhost:1313/news/visit-liacs-2/</guid>
+      <description>Second research visit to ADA group from LIACS, Leiden University.</description>
+    </item>
     <item>
       <title>💬 [Webinar] Using Ambiguous Synthetic Data to Evaluate Model Overconfidence in Pneumonia Detection</title>
       <link>http://localhost:1313/news/cop-webinar/</link>

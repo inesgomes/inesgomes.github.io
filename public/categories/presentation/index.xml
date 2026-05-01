@@ -6,8 +6,15 @@
     <description>Recent content in Presentation on Inês Gomes</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 24 Sep 2025 23:18:01 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 05 Dec 2025 12:18:01 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/presentation/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>💬 [Webinar] Using Ambiguous Synthetic Data to Evaluate Model Overconfidence in Pneumonia Detection</title>
+      <link>http://localhost:1313/news/cop-webinar/</link>
+      <pubDate>Fri, 05 Dec 2025 12:18:01 +0100</pubDate>
+      <guid>http://localhost:1313/news/cop-webinar/</guid>
+      <description></description>
+    </item>
     <item>
       <title>🗣 Oral Presentation @ Discovery Science, Ljubljana 🇸🇮</title>
       <link>http://localhost:1313/news/ds-25/</link>
@@ -34,13 +41,6 @@
       <link>http://localhost:1313/news/thesis-proposal/</link>
       <pubDate>Tue, 11 Mar 2025 23:18:01 +0100</pubDate>
       <guid>http://localhost:1313/news/thesis-proposal/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>💬 [Webinar] Evaluation of Synthetic Data - Using Ambiguous Synthetic Data to Evaluate Model Overconfidence in Pneumonia Detection</title>
-      <link>http://localhost:1313/news/cop-webinar/</link>
-      <pubDate>Fri, 07 Feb 2025 23:18:01 +0100</pubDate>
-      <guid>http://localhost:1313/news/cop-webinar/</guid>
       <description></description>
     </item>
     <item>
