@@ -6,8 +6,22 @@
     <description>Recent content in News on Inês Gomes</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 23 Apr 2026 23:18:01 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 18 May 2026 23:18:01 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/news/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>🛫 COSEAL workshop participation, Aachen 🇩🇪</title>
+      <link>http://localhost:1313/news/coseal-26/</link>
+      <pubDate>Mon, 18 May 2026 23:18:01 +0100</pubDate>
+      <guid>http://localhost:1313/news/coseal-26/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>🗣 Speaker @ Data Makers Fest, Porto 🇵🇹</title>
+      <link>http://localhost:1313/news/dmf-26/</link>
+      <pubDate>Mon, 04 May 2026 23:18:01 +0100</pubDate>
+      <guid>http://localhost:1313/news/dmf-26/</guid>
+      <description>Glad to had the opportunity to speak at Data Makers Fest about stress testing! Here are some links:&#xA;Linkedin post 📄 slides Data Makers Fest Speakers List </description>
+    </item>
     <item>
       <title>🗣 Poster presentation - PhD Forum @ IDA, Leiden, Netherlands</title>
       <link>http://localhost:1313/news/ida-26/</link>
@@ -37,7 +51,7 @@
       <description></description>
     </item>
     <item>
-      <title>🗣 Oral Presentation @ Discovery Science, Ljubljana 🇸🇮</title>
+      <title>🗣 Oral presentation @ Discovery Science, Ljubljana 🇸🇮</title>
       <link>http://localhost:1313/news/ds-25/</link>
       <pubDate>Wed, 24 Sep 2025 23:18:01 +0100</pubDate>
       <guid>http://localhost:1313/news/ds-25/</guid>
@@ -58,11 +72,11 @@
       <description>Stress Testing Classifiers around the Decision Boundary with Latent Diffusion</description>
     </item>
     <item>
-      <title>🏆 Honorable Recognition - Chair @ AutoML Conference, New York City 🇺🇸</title>
+      <title>🏆 Honorable recognition - Chair @ AutoML Conference, New York City 🇺🇸</title>
       <link>http://localhost:1313/news/automl25-award/</link>
       <pubDate>Mon, 08 Sep 2025 23:18:01 +0100</pubDate>
       <guid>http://localhost:1313/news/automl25-award/</guid>
-      <description>Honorable Recognition for efforts in organizing the AutoML Conference 2025 as Publicity Chair.</description>
+      <description>Honorable recognition for efforts in organizing the AutoML Conference 2025 as Publicity Chair.</description>
     </item>
     <item>
       <title>Hired as invited assistant professor for the 2025/26 school year</title>
@@ -202,7 +216,7 @@
       <link>http://localhost:1313/news/gam-zaragoza/</link>
       <pubDate>Mon, 20 Nov 2023 23:18:01 +0100</pubDate>
       <guid>http://localhost:1313/news/gam-zaragoza/</guid>
-      <description>Represented the Porto University group in the AISym4Med bi-annual meeting.</description>
+      <description>Represented the University of Porto group in the AISym4Med bi-annual meeting.</description>
     </item>
     <item>
       <title>🗣 Poster presentation &#43; 🏆 best poster award @ Data Powwow, Porto 🇵🇹</title>
@@ -230,7 +244,7 @@
       <link>http://localhost:1313/news/gam-lx/</link>
       <pubDate>Tue, 20 Jun 2023 23:18:01 +0100</pubDate>
       <guid>http://localhost:1313/news/gam-lx/</guid>
-      <description>Represented the Porto University group in the AISym4Med bi-annual meeting.</description>
+      <description>Represented the University of Porto group in the AISym4Med bi-annual meeting.</description>
     </item>
     <item>
       <title>🎉 Started my PhD 🎉</title>

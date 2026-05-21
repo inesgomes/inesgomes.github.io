@@ -5,4 +5,4 @@ draft = false
 categories = ["AISym4Med"]
 +++
 
-Represented the Porto University group in the AISym4Med bi-annual meeting.
+Represented the University of Porto group in the AISym4Med bi-annual meeting.

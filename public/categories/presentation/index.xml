@@ -6,8 +6,22 @@
     <description>Recent content in Presentation on Inês Gomes</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 05 Dec 2025 12:18:01 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 04 May 2026 23:18:01 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/presentation/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>🗣 Speaker @ Data Makers Fest, Porto 🇵🇹</title>
+      <link>http://localhost:1313/news/dmf-26/</link>
+      <pubDate>Mon, 04 May 2026 23:18:01 +0100</pubDate>
+      <guid>http://localhost:1313/news/dmf-26/</guid>
+      <description>Glad to had the opportunity to speak at Data Makers Fest about stress testing! Here are some links:&#xA;Linkedin post&#xA;Data Makers Fest Speakers List&#xA;📄 slides</description>
+    </item>
+    <item>
+      <title>🗣 Poster presentation - PhD Forum @ IDA, Leiden, Netherlands</title>
+      <link>http://localhost:1313/news/ida-26/</link>
+      <pubDate>Thu, 23 Apr 2026 23:18:01 +0100</pubDate>
+      <guid>http://localhost:1313/news/ida-26/</guid>
+      <description> Previous Next &amp;nbsp; &amp;nbsp; / [pdf] View the PDF file here. </description>
+    </item>
     <item>
       <title>💬 [Webinar] Using Ambiguous Synthetic Data to Evaluate Model Overconfidence in Pneumonia Detection</title>
       <link>http://localhost:1313/news/cop-webinar/</link>
